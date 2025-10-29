@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 A01198274
 A01410702 Carlos Badillo MC
+=======
+A01198274 Arturo Garza IM
+ 
+>>>>>>> a6225904b227d306168de750d134471f01f7d034
